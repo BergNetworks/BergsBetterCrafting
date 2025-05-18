@@ -1,17 +1,16 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "misc",
-  "pattern": [
-    "ooo",
-    "obo",
-    "ooo"
-  ],
-  "key": {
-    "o": { "item": "minecraft:obsidian" },
-    "b": { "item": "minecraft:blaze_powder"}
-  },
-  "result": {
-    "id": "minecraft:crying_obsidian",
-    "count": 4
-  }
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#B#",
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:obsidian",
+        "B": "minecraft:blaze_powder"
+    },
+    "result": {
+        "id": "minecraft:crying_obsidian",
+        "count": 4
+    }
 }
