@@ -15,3 +15,19 @@
 <p align="left">Current craftable items: Cobwebs and Crying Obsidian.</p>
 
 ###
+
+<h2 align="left">Recipes</h2>
+
+###
+
+<div align="left">
+  <img height="200" src="https://i.imgur.com/JV2kekF.png"  />
+</div>
+
+###
+
+<div align="left">
+  <img height="200" src="https://i.imgur.com/KErteOF.png"  />
+</div>
+
+###
