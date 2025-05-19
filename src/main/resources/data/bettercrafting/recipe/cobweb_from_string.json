@@ -2,16 +2,16 @@
     "type": "minecraft:crafting_shaped",
     "category": "misc",
     "pattern": [
-      "s s",
-      " s ",
-      "s s"
+        "S S",
+        " S ",
+        "S S"
     ],
     "key": {
-      "s": { "item": "minecraft:string" }
+        "S": "minecraft:string"
     },
     "result": {
-      "id": "minecraft:cobweb",
-     "count": 1
+        "id": "minecraft:cobweb",
+        "count": 1
     },
     "show_notification": true
 }
